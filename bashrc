@@ -1,4 +1,3 @@
-# This file has aditionals lines that I add to my .bashrc
 
 ### Prompt look and color
 PS1='\[\e[1;31m\]\u\[\e[1;33m\]@\[\e[1;32m\]\h:\[\e[1;34m\]\W$ \[\e[m\]'
